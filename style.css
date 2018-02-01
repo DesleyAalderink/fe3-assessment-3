@@ -1,0 +1,26 @@
+.bar {
+  fill: #2D587B;
+}
+
+.bar:hover {
+  fill: #13314D;
+}
+
+.axis--x path {
+  display: none;
+}
+
+body{
+  font-family: 'Open Sans';
+}
+
+
+.toolTip {
+  position: absolute;
+  min-width: 80px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #6F257F;
+  padding: 14px;
+  text-align: center;
+}
